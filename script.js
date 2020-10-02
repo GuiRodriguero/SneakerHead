@@ -1,8 +1,8 @@
 (function () {
     'use strict';
   
-    var BODY_BACKGROUNDS = ['#8850FF','#FFBA00','#4054FF'];
-
+    var BODY_BACKGROUNDS = ['#ff6600','#FFBA00','#4054FF', '#1ebb09', '#202020'];
+                            //#8850FF
     function Slider () {
         this.cards = document.querySelectorAll('.cartao');
         this.currentIndex = 0;
