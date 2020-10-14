@@ -88,14 +88,6 @@ html, body{
   background: linear-gradient(#3fa531, #031801);
 }
 
-.cartao__header--jordan {
-  background-color: #dd4949;
-  background-image: linear-gradient(#dd4949, #270101);
-
-  background: #dd4949;
-  background: linear-gradient(#dd4949, #270101);
-}
-
 .cartao__marcadagua{
     overflow: hidden;
     position: absolute;
@@ -173,8 +165,8 @@ html, body{
  }
 
   .cartao__wish-list--19 {
-    color: #8850FF;
-    border-color: #8850FF;
+    color: #FCCB3C;
+    border-color: #FCCB3C;
   }
 
   .cartao__wish-list--solstice {
@@ -190,11 +182,6 @@ html, body{
   .cartao__wish-list--kyrie {
     color: #1ebb09;
     border-color: #1ebb09;
-  }
-
-  .cartao__wish-list--jordan {
-    color: #dd4949;
-    border-color: #dd4949;
   }
   
   .cartao__category {
